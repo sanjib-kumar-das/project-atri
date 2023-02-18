@@ -1,0 +1,2220 @@
+.p-Home.Flex_A {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+font-family: Kanit;
+color: #696969;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.p-Home.Flex_A1 {
+display: flex;
+align-content: stretch;
+row-gap: 0px;
+align-items: center;
+column-gap: 30px;
+}
+.p-Home.Flex_A1a {
+display: flex;
+align-items: center;
+column-gap: 30px;
+font-family: Kanit;
+font-size: 20px;
+}
+.p-Home.Flex_A2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_B {
+display: flex;
+}
+.p-Home.Flex_B1 {
+display: flex;
+flex-direction: column;
+font-size: 40px;
+row-gap: 20px;
+padding-left: 150px;
+padding-top: 100px;
+flex-grow: 1;
+align-self: auto;
+align-items: flex-start;
+}
+.p-Home.Flex_B1b {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_B1a {
+display: flex;
+flex-direction: column;
+font-size: 50px;
+}
+.p-Home.Flex_B2 {
+display: flex;
+background-color: #ff7629;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-top: 0px;
+}
+.p-Home.Flex_C {
+display: flex;
+justify-content: center;
+padding-top: 75px;
+font-size: 21px;
+flex-direction: column;
+align-content: stretch;
+align-items: center;
+row-gap: 20px;
+}
+.p-Home.Flex_C1 {
+display: flex;
+column-gap: 60px;
+}
+.p-Home.Flex_C1a {
+display: flex;
+column-gap: 60px;
+}
+.p-Home.Flex_C1b {
+display: flex;
+column-gap: 60px;
+}
+.p-Home.Flex_D {
+display: flex;
+padding-top: 150px;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+row-gap: 40px;
+padding-bottom: 100px;
+}
+.p-Home.Flex_D1 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_D1a {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_D1a1 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+border-radius: 15px;
+border-color: #cecece;
+padding-top: 40px;
+padding-bottom: 40px;
+border-width: 3px;
+border-style: solid;
+}
+.p-Home.Flex_D1a2 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+border-radius: 15px;
+border-width: 3px;
+border-style: solid;
+border-color: #cecece;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.p-Home.Flex_D1b {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_D1b1 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+border-radius: 15px;
+border-width: 3px;
+border-style: solid;
+border-color: #cecece;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.p-Home.Flex_D1b2 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+border-radius: 15px;
+border-width: 3px;
+border-style: solid;
+border-color: #cecece;
+}
+.p-Home.Flex_D2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_E {
+display: flex;
+background-color: #fff9f3;
+padding-top: 150px;
+padding-left: 150px;
+box-sizing: content-box;
+align-items: flex-start;
+justify-content: center;
+}
+.p-Home.Flex_E1 {
+display: flex;
+align-items: center;
+padding-top: 0px;
+padding-bottom: 200px;
+width: 50%;
+}
+.p-Home.Flex_E1a {
+display: flex;
+background-color: #ffffff;
+flex-direction: column;
+padding-right: 20px;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+position: relative;
+border-radius: 25px;
+row-gap: 20px;
+top: 200px;
+right: 30px;
+box-sizing: border-box;
+}
+.p-Home.Flex_E1a1 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+}
+.p-Home.Flex_E1a2 {
+display: flex;
+column-gap: 20px;
+width: 300px;
+}
+.p-Home.Flex_E1a3 {
+display: flex;
+column-gap: 20px;
+width: 300px;
+}
+.p-Home.Flex_E2 {
+display: flex;
+flex-grow: 1;
+align-items: flex-start;
+padding-top: 100px;
+flex-direction: column;
+row-gap: 25px;
+width: 50%;
+}
+.p-Home.Flex_E2a {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_F {
+display: flex;
+padding-top: 150px;
+flex-direction: column;
+align-content: stretch;
+justify-content: center;
+align-items: center;
+row-gap: 20px;
+padding-bottom: 150px;
+}
+.p-Home.Flex_F1 {
+display: flex;
+column-gap: 30px;
+flex-direction: column;
+}
+.p-Home.Flex_F1a {
+display: flex;
+column-gap: 25px;
+}
+.p-Home.Flex_F1a1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_product_card2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex43 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Product_price2 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_product_card1 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex42 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_F1a2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_product_card3 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex45 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_F1a21 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_product_card4 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex47 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_F1b {
+display: flex;
+column-gap: 25px;
+}
+.p-Home.Flex_F1b2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_product_card8 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex49 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex58 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_product_card7 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex50 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_F1b1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_product_card5 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex52 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_product_card6 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex51 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+}
+.p-Home.Flex59 {
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+border-radius: 15px;
+position: relative;
+background-color: #fffbfb;
+left: 60px;
+top: 60px;
+}
+.p-Home.Flex_F2 {
+display: flex;
+column-gap: 30px;
+padding-top: 90px;
+}
+.p-Home.Flex_G {
+display: flex;
+}
+.p-Home.Flex_G1 {
+display: flex;
+flex-direction: column;
+background-color: #ff7629;
+align-items: flex-start;
+justify-content: center;
+padding-top: 90px;
+padding-bottom: 100px;
+padding-left: 150px;
+box-sizing: border-box;
+row-gap: 33px;
+}
+.p-Home.Flex_G1a {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_G2 {
+display: flex;
+}
+.p-Home.Flex_H {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 150px;
+padding-bottom: 150px;
+row-gap: 20px;
+}
+.p-Home.Flex_H1 {
+display: flex;
+}
+.p-Home.Flex_H2 {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 50px;
+}
+.p-Home.Flex_H2a {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 50px;
+}
+.p-Home.Flex_H2a1 {
+display: flex;
+}
+.p-Home.Flex_H2b {
+display: flex;
+padding-bottom: 40px;
+padding-left: 50px;
+padding-top: 50px;
+padding-right: 50px;
+flex-direction: column;
+width: 50%;
+box-sizing: border-box;
+row-gap: 10px;
+border-radius: 25px;
+border-style: solid;
+border-color: #d5d5d5;
+border-width: 3px;
+}
+.p-Home.Flex_H2b1 {
+display: flex;
+column-gap: 8px;
+}
+.p-Home.Flex_H2b1a {
+display: flex;
+}
+.p-Home.Flex_H2b1b {
+display: flex;
+}
+.p-Home.Flex_H2b1c {
+display: flex;
+}
+.p-Home.Flex_H2b1d {
+display: flex;
+}
+.p-Home.Flex_H2b1e {
+display: flex;
+}
+.p-Home.Flex_H2b2 {
+display: flex;
+padding-top: 10px;
+column-gap: 25px;
+align-items: center;
+}
+.p-Home.Flex_H2b2a {
+display: flex;
+flex-direction: column;
+row-gap: 2px;
+}
+.p-Home.Flex_H2c {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 50px;
+}
+.p-Home.Flex_H2c1 {
+display: flex;
+}
+.p-Home.Flex_H3 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_I {
+display: flex;
+padding-top: 150px;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom: 100px;
+background-color: #fff9f3;
+box-sizing: border-box;
+flex-direction: column;
+}
+.p-Home.Flex_I1 {
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 30px;
+}
+.p-Home.Flex_I1a {
+display: flex;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 35px;
+background-color: #ff7629;
+font-family: Crimson Text;
+color: #ffffff;
+}
+.p-Home.Flex_I2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_I2a {
+display: flex;
+width: 50%;
+flex-direction: column;
+background-color: #fffefe;
+row-gap: 10px;
+border-radius: 35px;
+}
+.p-Home.Flex_I2b {
+display: flex;
+width: 60%;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex_I2b1 {
+display: flex;
+column-gap: 30px;
+align-items: center;
+justify-content: center;
+}
+.p-Home.Flex_I2b1a {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefe;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex_I2b1b {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefe;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex_I2b2 {
+display: flex;
+column-gap: 30px;
+align-items: center;
+justify-content: center;
+}
+.p-Home.Flex_I2b2b {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefe;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex_I2b2a {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefe;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex_J {
+display: flex;
+}
+.p-Home.Flex_J1 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+row-gap: 20px;
+padding-top: 100px;
+padding-left: 150px;
+padding-bottom: 100px;
+width: 50%;
+}
+.p-Home.Flex_J1a {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 50%;
+column-gap: 25px;
+}
+.p-Home.Flex_J1b {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 50%;
+column-gap: 0px;
+}
+.p-Home.Flex_J1c {
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 50%;
+column-gap: 0px;
+}
+.p-Home.Flex_J2 {
+display: flex;
+background-color: #ff7629;
+align-items: flex-start;
+padding-top: 100px;
+padding-bottom: 100px;
+width: 50%;
+}
+.p-Home.Flex_J2a {
+display: flex;
+background-color: #ffffff;
+flex-direction: column;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 80px;
+padding-bottom: 30px;
+box-sizing: content-box;
+row-gap: 30px;
+font-size: 18px;
+position: relative;
+right: 140px;
+border-radius: 40px;
+border-width: 3px;
+border-style: solid;
+border-color: #d9d4d4;
+}
+.p-Home.Flex_J2a1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_J2a1a {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a1b {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_J2a2b {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a2a {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a3 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_J2a3a {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a3b {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_J2a4 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_K {
+display: flex;
+padding-top: 150px;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom: 100px;
+background-color: #fff9f3;
+box-sizing: border-box;
+flex-direction: column;
+}
+.p-Home.Flex_K2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex_K2a {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_K2a1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_K2a2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_K2b {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_K2b2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_K2b1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_K1 {
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 30px;
+}
+.p-Home.Flex_K1a {
+display: flex;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-right: 30px;
+padding-left: 30px;
+border-radius: 35px;
+background-color: #ff7629;
+color: #ffffff;
+}
+.p-Home.Flex_L {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+font-family: Kanit;
+color: #696969;
+padding-top: 100px;
+padding-bottom: 50px;
+padding-left: 150px;
+padding-right: 150px;
+column-gap: 40px;
+}
+.p-Home.Flex_L1 {
+display: flex;
+align-content: stretch;
+row-gap: 0px;
+align-items: center;
+column-gap: 13px;
+flex-direction: column;
+width: 40%;
+}
+.p-Home.Flex_L1a {
+display: flex;
+column-gap: 8px;
+}
+.p-Home.Flex_L1a5 {
+display: flex;
+}
+.p-Home.Flex_L1a4 {
+display: flex;
+}
+.p-Home.Flex_L1a3 {
+display: flex;
+}
+.p-Home.Flex_L1a2 {
+display: flex;
+}
+.p-Home.Flex_L1a1 {
+display: flex;
+}
+.p-Home.Flex_L2 {
+display: flex;
+}
+.p-Home.Flex_L2a {
+display: flex;
+font-size: 20px;
+align-items: flex-start;
+flex-direction: column;
+row-gap: 10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+.p-Home.Flex_L2b {
+display: flex;
+font-size: 20px;
+align-items: flex-start;
+flex-direction: column;
+row-gap: 10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+.p-Home.Flex_L3 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 20px;
+}
+.p-Home.Flex_L3a {
+display: flex;
+}
+.p-Home.Flex_L3a1 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_L3a1b {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_L3a1a {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_L3a2 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex_L3a2b {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex_L3a2a {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.TextBox1 {
+font-family: Kanit;
+}
+.p-Home.TextBox2 {
+font-family: Kanit;
+}
+.p-Home.TextBox3 {
+font-family: Kanit;
+}
+.p-Home.TextBox4 {
+font-family: Kanit;
+}
+.p-Home.TextBox5 {
+font-family: Kanit;
+}
+.p-Home.Image69 {
+background-image: url("/app-assets/616da2c309aa0721dacedf0a_logo-restaurante-x-template.svg");
+background-repeat: no-repeat;
+width: 250px;
+}
+.p-Home.Button {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: center;
+font-family: Crimson Text;
+outline-style: none;
+}
+.p-Home.Button1 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: normal;
+text-align: center;
+border-width: 2px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+outline-style: none;
+align-self: center;
+}
+.p-Home.TextBox9 {
+font-size: 18px;
+color: #757575;
+width: 70%;
+font-family: Kanit;
+}
+.p-Home.Button3 {
+color: #ffffff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.Button4 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-color: #ffffff;
+font-family: Crimson Text;
+}
+.p-Home.TextBox8 {
+color: #ff7629;
+font-family: Crimson Text;
+}
+.p-Home.TextBox7 {
+font-size: 50px;
+font-family: Crimson Text;
+}
+.p-Home.Image5 {
+width: 400px;
+border-width: 50px;
+padding-top: 40px;
+padding-left: 40px;
+padding-bottom: 40px;
+padding-right: 40px;
+position: relative;
+right: 200px;
+flex-grow: 1;
+background-repeat: no-repeat;
+background-image: url("/app-assets/616d9a0b651769674022e7ba_home-hero-restaurante-x-template.jpeg");
+border-radius: 50px;
+background-attachment: scroll;
+background-origin: border-box;
+overflow: hidden;
+}
+.p-Home.TextBox10 {
+font-size: 30px;
+font-family: Crimson Text;
+padding-bottom: 50px;
+}
+.p-Home.Image3 {
+flex-grow: 1;
+background-image: url("/app-assets/616d9a0bded3b95d9731ecc4_logo-postmates-restaurante-x-template.svg");
+width: 160px;
+background-repeat: no-repeat;
+height: 40px;
+}
+.p-Home.Image4 {
+flex-grow: 1;
+background-image: url("/app-assets/616d9a0b63b4ee3fe71f5072_logo-doorash-restaurante-x-template.svg");
+background-repeat: no-repeat;
+width: 230px;
+height: 40px;
+}
+.p-Home.Image5_1 {
+flex-grow: 1;
+background-image: url("/app-assets/616d9a0b326163db6497f05b_logo-rappi-restaurante-x-template.svg");
+background-repeat: no-repeat;
+width: 90px;
+min-height: px;
+height: 40px;
+}
+.p-Home.Image6 {
+flex-grow: 1;
+background-image: url("/app-assets/616d9a0b5b82ce962fe1736b_logo-grubhub-restaurante-x-template.svg");
+background-repeat: no-repeat;
+height: 40px;
+width: 130px;
+}
+.p-Home.TextBox11 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.Image7 {
+border-width: 0px;
+background-image: url("/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg");
+background-repeat: no-repeat;
+width: 115px;
+height: 115px;
+align-self: auto;
+text-align: left;
+}
+.p-Home.TextBox13 {
+font-size: 20px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox14 {
+font-size: 17px;
+color: #676767;
+padding-left: 30px;
+padding-right: 10px;
+width: 200px;
+font-family: Kanit;
+}
+.p-Home.TextBox12 {
+font-size: 17px;
+color: #ff7629;
+}
+.p-Home.Image195 {
+border-radius: 0px;
+width: 115px;
+height: 115px;
+background-image: url("/app-assets/616dcfbb9e09be616e71d818_menu-main-dishes-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox383 {
+font-size: 20px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox384 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+color: #676767;
+font-size: 17px;
+font-family: Kanit;
+}
+.p-Home.TextBox382 {
+font-size: 17px;
+color: #ff7629;
+}
+.p-Home.Image17 {
+border-radius: 0px;
+width: 115px;
+height: 115px;
+background-image: url("/app-assets/616dcfb5dd3ca61a6dd0ae1c_menu-drinks-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox31 {
+font-size: 20px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox30 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+font-size: 17px;
+color: #676767;
+font-family: Kanit;
+}
+.p-Home.TextBox32 {
+width: 100px;
+font-size: 17px;
+color: #ff7629;
+}
+.p-Home.Image196 {
+border-radius: 0px;
+width: 115px;
+height: 115px;
+background-image: url("/app-assets/616dcfafe6321c66cb474f97_menu-desserts-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox386 {
+font-size: 20px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox387 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+font-size: 17px;
+color: #676767;
+font-family: Kanit;
+}
+.p-Home.TextBox385 {
+font-size: 17px;
+color: #ff7629;
+}
+.p-Home.Button9_1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: auto;
+font-family: Crimson Text;
+}
+.p-Home.Button10_1 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.Image19 {
+width: auto;
+border-radius: 30px;
+background-image: url("/app-assets/616d9a0bdba0fb13cfd32fc0_about-home-restaurante-x-template-p-1080.jpeg");
+height: 500px;
+flex-grow: 1;
+overflow: hidden;
+background-repeat: no-repeat;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+position: relative;
+}
+.p-Home.TextBox36 {
+font-size: 20px;
+font-family: Crimson Text;
+font-weight: 400;
+}
+.p-Home.Image20 {
+border-radius: 0px;
+background-image: url("/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg");
+background-repeat: no-repeat;
+width: 35px;
+height: 35px;
+}
+.p-Home.TextBox38 {
+width: 50%;
+color: #8d8d8d;
+font-family: Kanit;
+}
+.p-Home.Image25 {
+border-radius: 0px;
+width: 35px;
+height: 35px;
+background-image: url("/app-assets/616da2c36165d583fe91702b_phone-icon-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox43 {
+color: #8d8d8d;
+font-family: Kanit;
+}
+.p-Home.Image22 {
+border-radius: 0px;
+width: 35px;
+height: 35px;
+background-image: url("/app-assets/616da2c3400864a9087440a4_email-icon-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox40_1 {
+color: #8d8d8d;
+font-family: Kanit;
+}
+.p-Home.TextBox46_1 {
+width: 80%;
+color: #8d8d8d;
+font-family: Kanit;
+}
+.p-Home.TextBox45 {
+color: #8d8d8d;
+width: 80%;
+font-family: Kanit;
+}
+.p-Home.TextBox44 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.Button12 {
+color: #000000;
+background-color: #ffffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cecece;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.Button8 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #ffffff;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.TextBox47_1 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox48 {
+width: 50%;
+color: #727272;
+font-family: Kanit;
+}
+.p-Home.Product_Name2 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.Product_About2 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Image2 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616dc9ba43f4163d5f7b436e_chocolate-milkshake-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox40 {
+font-size: 16px;
+}
+.p-Home.Product_Image1 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616d9a0b651769674022e7ba_home-hero-restaurante-x-template.jpeg");
+overflow: hidden;
+align-self: auto;
+box-sizing: content-box;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+position: static;
+}
+.p-Home.Product_About1 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Name1 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.Product_Price1 {
+font-size: 16px;
+}
+.p-Home.Product_Name3 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.Product_About3 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Image3 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616da2c360af92b81a49e435_Instagram-02-restaurante-x-template.jpeg");
+}
+.p-Home.TextBox47 {
+font-size: 16px;
+}
+.p-Home.Product_Image4 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616dc56043f416c4db7b3322_pancakes-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Product_About4 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Name4 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox46 {
+font-size: 16px;
+}
+.p-Home.Product_Name8 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.Product_About8 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Image8 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox52 {
+font-size: 16px;
+}
+.p-Home.Product_Image7 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616dc4908009251d2f5ac06b_egg-toast-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Product_About7 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Name7 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox56 {
+font-size: 16px;
+}
+.p-Home.Product_Name5 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.Product_About5 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Image5 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616dc50743f41639377b2fd8_ice-cream-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox57 {
+font-size: 16px;
+}
+.p-Home.Product_Image6 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+background-image: url("/app-assets/616f660cd6eac82a435c6aec_about-04-restaurante-x-template.jpeg");
+}
+.p-Home.Product_About6 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+font-size: 16px;
+text-align: center;
+font-family: Kanit;
+}
+.p-Home.Product_Name6 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox53 {
+font-size: 16px;
+}
+.p-Home.Button9 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.Button10 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: auto;
+font-family: Crimson Text;
+}
+.p-Home.TextBox73 {
+font-size: 38px;
+color: #ffffff;
+max-width: 80%;
+font-family: Crimson Text;
+}
+.p-Home.TextBox74 {
+font-size: 16px;
+color: #fffafa;
+max-width: 80%;
+font-family: Kanit;
+}
+.p-Home.Button11 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cceeccec;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.Button13 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: center;
+font-family: Crimson Text;
+outline-style: none;
+}
+.p-Home.Image34 {
+width: 100%;
+background-image: url("/app-assets/616da2c364b456b93fb50d6d_cta-restaurante-x-template.jpeg");
+}
+.p-Home.TextBox75 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox76 {
+width: 50%;
+color: #727272;
+font-family: Kanit;
+}
+.p-Home.Carousel1 {
+border-radius: 0px;
+}
+.p-Home.Carousel2 {
+width: 100%;
+height: 100%;
+}
+.p-Home.Carousel3 {
+border-radius: 0px;
+}
+.p-Home.TextBox142 {
+border-radius: 0px;
+font-size: 30px;
+}
+.p-Home.Image74 {
+width: 50px;
+height: 50px;
+background-color: #ff7629;
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+border-radius: 50px;
+background-image: url("/app-assets/left-arrow-svgrepo-com.svg");
+}
+.p-Home.TextBox78 {
+font-size: 24px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox79 {
+font-size: 14px;
+color: #716f6f;
+font-family: Kanit;
+}
+.p-Home.Image44 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image76 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image77 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image78 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image79 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image40 {
+width: 80px;
+height: 80px;
+border-radius: 50%;
+background-image: url("/app-assets/face1.jpg");
+}
+.p-Home.TextBox81 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox80 {
+color: #595858;
+font-family: Crimson Text;
+}
+.p-Home.Image75 {
+width: 50px;
+height: 50px;
+background-color: #ff7629;
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+border-radius: 50px;
+background-image: url("/app-assets/right-arrow-svgrepo-com.svg");
+}
+.p-Home.Button17 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: auto;
+font-family: Crimson Text;
+}
+.p-Home.Button18 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: Crimson Text;
+}
+.p-Home.TextBox82 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox83 {
+border-radius: 0px;
+color: #ffffff;
+}
+.p-Home.Image45 {
+width: 100%;
+border-radius: 0px;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+height: 70%;
+background-image: url("/app-assets/616dbe9e3823ad75e50cfc8d_blog-post-featured-image-01-restaurante-x-template.jpeg");
+}
+.p-Home.TextBox85 {
+font-size: 15px;
+color: #737373;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox86 {
+font-size: 26px;
+padding-left: 20px;
+padding-right: 10px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox84 {
+font-size: 15px;
+color: #8f8f8f;
+padding-left: 20px;
+padding-right: 10px;
+padding-bottom: 30px;
+font-family: Kanit;
+}
+.p-Home.Image49 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+background-image: url("/app-assets/616da2c3a17185112de60f4a_Instagram-04-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox97 {
+font-size: 15px;
+color: #737373;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox96 {
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+font-family: Kanit;
+}
+.p-Home.TextBox100 {
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+font-family: Kanit;
+}
+.p-Home.TextBox99 {
+font-size: 15px;
+color: #737373;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.Image51 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+background-image: url("/app-assets/616dbc8ef398638f6395578f_blog-post-featured-image-04-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image52 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+background-image: url("/app-assets/616da2c40b5fd9150a07d9ad_Instagram-01-restaurante-x-template.jpeg");
+}
+.p-Home.TextBox102 {
+font-size: 15px;
+color: #737373;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox101 {
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+font-family: Kanit;
+}
+.p-Home.TextBox104 {
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+font-family: Kanit;
+}
+.p-Home.TextBox103 {
+font-size: 15px;
+color: #737373;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.Image53 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+background-image: url("/app-assets/616dbc58e6083f444f1883f5_blog-post-featured-image-05-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox105 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox106 {
+width: 50%;
+font-size: 16px;
+color: #727171;
+font-family: Kanit;
+}
+.p-Home.Image54 {
+width: 35px;
+height: 35px;
+background-image: url("/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox107 {
+color: #717070;
+font-family: Kanit;
+}
+.p-Home.TextBox111 {
+color: #717070;
+font-family: Kanit;
+}
+.p-Home.Image55 {
+width: 35px;
+height: 35px;
+background-image: url("/app-assets/616da2c36165d583fe91702b_phone-icon-restaurante-x-template.svg");
+background-repeat: no-repeat;
+}
+.p-Home.TextBox112 {
+color: #717070;
+font-family: Kanit;
+}
+.p-Home.Image56_1 {
+width: 35px;
+height: 35px;
+background-repeat: no-repeat;
+background-image: url("/app-assets/616da2c3400864a9087440a4_email-icon-restaurante-x-template.svg");
+}
+.p-Home.TextBox113 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.Input1 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.Input2 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.TextBox114 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox115 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.Input4 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.Input3 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.TextBox116 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox118 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.Input6 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.Input5 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #ffffff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+font-family: Kanit;
+}
+.p-Home.TextBox117 {
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox120 {
+font-size: 25px;
+font-family: Crimson Text;
+}
+.p-Home.Input9 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 2px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+height: 180px;
+text-align: center;
+font-family: Kanit;
+font-weight: normal;
+}
+.p-Home.Button25 {
+color: #ffffff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 3px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+width: 40%;
+font-family: Crimson Text;
+}
+.p-Home.Image58_1 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+background-image: url("/app-assets/616da2c40b5fd9150a07d9ad_Instagram-01-restaurante-x-template.jpeg");
+}
+.p-Home.Image59 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+background-image: url("/app-assets/616da2c360af92b81a49e435_Instagram-02-restaurante-x-template.jpeg");
+}
+.p-Home.Image61 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image56 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c376225e7ff4d983c1_Instagram-05-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image57 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image58 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c3a17185112de60f4a_Instagram-04-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.TextBox122 {
+font-size: 30px;
+font-family: Crimson Text;
+}
+.p-Home.TextBox116_1 {
+font-size: 18px;
+color: #ffffffff;
+font-family: Crimson Text;
+}
+.p-Home.Image64 {
+border-radius: 0px;
+background-image: url("/app-assets/616da2c309aa0721dacedf0a_logo-restaurante-x-template.svg");
+width: 250px;
+height: 40px;
+background-repeat: no-repeat;
+}
+.p-Home.TextBox123 {
+width: 100%;
+color: #6a6868;
+font-family: Kanit;
+}
+.p-Home.Image69_1 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image68 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image67 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image66 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.Image65 {
+width: 30px;
+height: 30px;
+background-image: url("/app-assets/star-svgrepo-com.svg");
+}
+.p-Home.TextBox125_1 {
+padding-bottom: 20px;
+padding-right: 40px;
+font-size: 20px;
+color: #070707;
+font-family: Crimson Text;
+}
+.p-Home.TextBox126_1 {
+font-size: 16px;
+color: #7f7c7c;
+font-family: Kanit;
+}
+.p-Home.TextBox125 {
+font-size: 16px;
+color: #7f7c7c;
+font-family: Kanit;
+}
+.p-Home.TextBox126 {
+font-size: 16px;
+color: #7f7c7c;
+font-family: Kanit;
+}
+.p-Home.TextBox127 {
+font-size: 16px;
+color: #7f7c7c;
+font-family: Kanit;
+}
+.p-Home.TextBox128 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox129 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox131_1 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox131 {
+font-size: 16px;
+color: #7f7c7c;
+font-family: Kanit;
+}
+.p-Home.TextBox140 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox139 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox138 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox135 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox136 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox137 {
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.TextBox141 {
+padding-bottom: 20px;
+padding-right: 40px;
+font-size: 20px;
+color: #070707;
+font-family: Crimson Text;
+}
+.p-Home.TextBox124 {
+font-size: 20px;
+color: #000000;
+border-radius: 0px;
+font-family: Crimson Text;
+}
+.p-Home.Image73 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c376225e7ff4d983c1_Instagram-05-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image72 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image70 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg");
+}
+.p-Home.Image5_2 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+background-image: url("/app-assets/616da2c3a17185112de60f4a_Instagram-04-restaurante-x-template-p-500.jpeg");
+}
